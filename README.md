@@ -105,9 +105,3 @@
 <p align="center"> 
   <img width="1280" height="409" src="https://i.imgur.com/iQvuDLA.png">
 </p>
-
-
-
-<p align="center"> 
-  Did you actually read the whole thing? Wow! You want a cookie? Too bad! Instead how about you whisper me "Monkshood"
-</p>
